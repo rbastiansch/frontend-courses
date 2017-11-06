@@ -5,5 +5,7 @@ Manteremos o todos os arquivos com a mesma formatação do arquivo de [exemplo](
 
 ## Assuntos Principais
 
-- HTML/CSS
-- [Javascript](javascript/javascript.md)
+- [HTML/CSS](html-css)
+  - [HTML/CSS](html-css/html-css.md)
+- [Javascript](javascript)
+  - [Javascript Puro](javascript/javascript.md)
