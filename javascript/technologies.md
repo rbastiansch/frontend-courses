@@ -1,5 +1,5 @@
 # Cursos de frameworks/libs e outras ferramentas
-Todas as fontes de aprendizado frameworks, libraries e outras ferramentas relacionadas a JavaScript ficará nesse arquivo, divididos por sessões.
+Todas as fontes de aprendizado frameworks, bibliotecas e outras ferramentas relacionadas a JavaScript ficará nesse arquivo, divididos por sessões.
 
 ## Cursos online(udemy, alura, etc).
 
