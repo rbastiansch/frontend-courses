@@ -9,3 +9,4 @@ Manteremos o todos os arquivos com a mesma formatação do arquivo de [exemplo](
   - [HTML/CSS](html-css/html-css.md)
 - [Javascript](javascript)
   - [Javascript Puro](javascript/javascript.md)
+  - [Frameworks, bibliotecas e outras ferramentas](javascript/technologies.md)
